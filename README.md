@@ -8,7 +8,7 @@
 
 ### GitHub Stats
 
-![Rithe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritherye&show_icons=true&theme=radical)
+![Rithe's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithery&show_icons=true&theme=radical)
 
 ### Languages I Use Most
 
