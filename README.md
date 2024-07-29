@@ -1,4 +1,4 @@
-## Hi there, I'm Rithe 👋
+## Hi there, I'm Rithe - រិត្ថេរ 👋
 
 ### About Me
 
