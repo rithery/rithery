@@ -4,7 +4,7 @@
 
 - 🌱 Tech enthusiast, coding and football lover, avid reader, world traveler, and fueled by love. ❤️🌍📚⚽
 - 👨‍💻 I’m currently working on mobile/web applications with JavaScript/TypeScript, ReactJS/NextJS, NestJS,ReactNative, PostgreSQL/MySQL, MongoDB.
-- 💬 Ask me about mobile/web development, databases, and creating dynamic, interactive applications, devops and technology.
+- 💬 If you want to dive into mobile/web development, databases, creating dynamic and interactive applications, DevOps, or any tech talk, I'm your person! Feel free to reach out and let's have a conversation.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thoeun-rithe)
 
 ### Languages I Use Most
