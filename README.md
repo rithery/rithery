@@ -4,11 +4,7 @@
 
 - 🌱 I’m currently learning and working with various web technologies.
 - 👯 I’m looking to collaborate on exciting open-source projects.
-- 💬 Ask me about JavaScript, React, Node.js, and more!
-
-### GitHub Stats
-
-![Rithe's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithery&show_icons=true&theme=radical)
+- 💬 Ask me about JavaScript, React, NestJS, TypeScript, DevOps and more!
 
 ### Languages I Use Most
 
